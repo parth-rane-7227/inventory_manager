@@ -85,7 +85,7 @@ span.psw {
    <%@include file="message.jsp" %>
   <center>
   <br>
-  <h2><strong><em>View Raw Material</em></strong></h2></center>
+  <h2><strong><em>View Raw Materials</em></strong></h2></center>
   <hr>
     <table class="table">
   <thead class="thead-light">
