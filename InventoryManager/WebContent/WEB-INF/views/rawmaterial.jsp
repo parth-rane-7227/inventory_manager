@@ -9,7 +9,7 @@
  
 
 
-<title>Add Raw Material</title>
+<title>Add Raw Materials</title>
 <style>
 body {font-family: Arial, Helvetica, sans-serif;}
 * {box-sizing: border-box}
